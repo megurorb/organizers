@@ -9,5 +9,5 @@ For organizers
 ## リンク
 - http://megurorb.github.com
 - https://megurorb.connpass.com
-- https://twitter.com/megurorb
 - https://www.facebook.com/megurorb
+- https://twitter.com/megurorb (公式Twitterアカウントの共有には[TweetDeck](https://tweetdeck.twitter.com/)を利用してます。DMもらえれば適宜Collaboratorに追加します。）
