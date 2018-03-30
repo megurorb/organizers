@@ -41,8 +41,8 @@
 * [Meguro.rb Opening Talkスライド](https://drive.google.com/drive/folders/0BxCKnEOd8gJ-VDQ3RGM1dXAyWk0) に過去のスライドが溜まってます
 * 以下を盛り込むと良いと思います
   * Meguro.rb の説明
-  * Twitter ハッシュタグ #megurorb でツイートしてもらうこと
-  * タイムキーパーの存在
+  * Twitter ハッシュタグ #megurorb でツイートしてもらうこと
+  * タイムキーパーの存在
   * Talk 終わりの質問タイム
 
 ## 会場にあると良い設備
