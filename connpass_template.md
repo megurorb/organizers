@@ -2,9 +2,9 @@
 Meguro.rbは地域Rubyコミュニティーです。 目黒近辺で活動するRubyist向けのMeetupを定期的に開催しています。
 第%{n}回目は%{location}で%{date}開催です。LTをメインに懇親会をしたいと思っています。
 
-何をやるか、振り返ってどうだったかは Github Issue や Slack 上で議論しています。よろしければこちらもご覧ください。
+何をやるか、振り返ってどうだったかは GitHub Issue や Slack 上で議論しています。よろしければこちらもご覧ください。
 
-[Github](https://github.com/megurorb/organizers/issues)
+[GitHub](https://github.com/megurorb/organizers/issues)
 [Slackに参加](https://megurorb.herokuapp.com)
 
 ### 内容
